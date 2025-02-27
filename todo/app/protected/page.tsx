@@ -6,6 +6,6 @@ export default function Home() {
     <div>
       <AddToDo />
       <ToDoList />
-    </div>;
+    </div>
   );
 }
